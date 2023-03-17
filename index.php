@@ -22,7 +22,7 @@ Code and design by Ankit Saikia
     <div class="main mb-5" id="main">
 
         <!-- navbar -->
-        <?php include 'main_data/navbar.php'?>
+        <?php include 'college/main_data/navbar.php'?>
 
         <!-- fullpage container start -->
         <div id="fullscreenpage" class="pb-5">
