@@ -1,0 +1,55 @@
+/* THIS IS A CSS WRITTEN BY ANKIT SAIKIA 2023 */
+
+:root {
+  --logo-size-sm: 40px;
+  --logo-size-lg: 30px;
+
+  --nav-brand-size-sm: 40px;
+  --nav-brand-size-lg: 30px;
+}
+
+#logo_top {
+  top:-5px;
+  left:0;
+}
+
+.navbar-brand {
+ font-size: var(--nav-brand-size-lg);
+}
+
+.logo-brand {
+  font-weight: bolder; 
+  font-size: 30px;
+}
+
+.nav-logo {
+  width: 80px
+}
+
+.logo-sub {
+  font-weight: 200; font-size: 12px;
+}
+
+.brand-sus {
+  top:4px;
+  left:110px
+}
+
+
+/* HIDE THE CLASSES THAT ARE TO BE HIDDEN IN MOBILE VIEW */
+@media screen and (max-width: 768px) {
+  #logo_top {
+    top: -4px;
+    left: -20px;
+  }
+  .logo-brand {
+    font-size: 1rem;
+  }
+  .logo-sub {
+    font-size: 8px;
+  }
+  .brand-sus {
+    top: 10px;
+    left: 90px
+  }
+}

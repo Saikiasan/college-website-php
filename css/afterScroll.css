@@ -1,0 +1,32 @@
+:root {
+    --bg-1: #111;
+    --logo-width: 10%;
+    --logo-dist-from-screen: 10px;
+
+    --navbar-side-width: 20%;
+}
+
+/* LOGO */
+.as-college-logo.animated {
+    --width: var(--logo-width);
+    --val-1: var(--logo-dist-from-screen);
+    top: var(--val-1); 
+    left: var(--val-1);
+    margin: 0%; 
+    padding: 0%;
+    position: fixed;
+    transition: all 2s;
+  }
+
+  /* NAV BAR */
+  .navbar.animated {
+    display: none; 
+    transition: all 2s;
+  }
+
+  /* MAIN CONTENT */
+  .main.animated {
+    --width: calc(100% - var(--navbar-side-width)) !important;
+  }
+
+  /* FOOTER */

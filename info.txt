@@ -1,0 +1,23 @@
+FILE CREATED ON 19-FEB-2023
+AUTHOR - ANKIT SAIKIA
+WEBSITE - [https://ctctsk.in/]
+
+The primary motive of this file is to take notes on the required aspects and 
+working behaviour of the created system software.
+
+The file will keep in account:
+1. Name/ Hint on the issue/field
+2. Create a log
+
+
+===============================================================================
+
+IF THE DEVELOPMENT PHASE IS TAKING PLACE, ALLOW THE DEVELOPER TO USE THE 
+IMPORTANT AND QUICK SETTINGS AND FEATURES TO CHANGE THE OVERALL APP EXPEEIENCE.
+
+The dev profile must be accessible only on the development environment.
+
+The primary role of this section of the code is to make sure that the project's integrity remains
+
+Ert!bUXI7075
+fmske6h2kdug

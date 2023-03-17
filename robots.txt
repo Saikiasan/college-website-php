@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Allow: *
+Disallow: /admin/
+
+User-agent: *
+Disallow: /admin/
+
+Crawl-Delay: 20
+
+Sitemap: https://ctctsk.in/sitemap.xml

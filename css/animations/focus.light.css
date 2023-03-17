@@ -1,0 +1,15 @@
+
+@keyframes focusGlow {
+    0% {
+        filter: brightness(0.5) opacity(0.2);
+    }
+    50%{
+        filter: brightness(2);
+    }
+    100% {
+        filter: brightness(0.5) opacity(0.2)
+    }
+}
+.asn-focus {
+    animation: focusGlow 2s infinite;
+}

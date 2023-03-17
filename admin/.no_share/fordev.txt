@@ -1,0 +1,4 @@
+The shortcut from anywhere except the admin mode 
+ctrl + l opens the login page
+
+ctrl + a toggles fullscreen
