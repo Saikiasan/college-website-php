@@ -58,7 +58,7 @@ $result_course = $conn->query($sql_course);
                             aria-expanded="false">About</a>
                         <div class="dropdown-menu d-a shadow" role="menu">
                             <div id="arrow" data-popper-arrow></div>
-                            <a class="dropdown-item" href="college/about.php">about us</a>
+                            <a class="dropdown-item" href="https://ctctsl.in/college/about.php">about us</a>
                             <a class="dropdown-item" href="vision_and_mission.php">vision & mission</a>
                             <a class="dropdown-item" href="about_eco.php">eco club</a>
                         </div>
