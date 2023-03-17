@@ -59,8 +59,8 @@ $result_course = $conn->query($sql_course);
                         <div class="dropdown-menu d-a shadow" role="menu">
                             <div id="arrow" data-popper-arrow></div>
                             <a class="dropdown-item" href="about">about us</a>
-                            <a class="dropdown-item" href="vision_and_mission.php">vision & mission</a>
-                            <a class="dropdown-item" href="about_eco.php">eco club</a>
+                            <a class="dropdown-item" href="vision_and_mission">vision & mission</a>
+                            <a class="dropdown-item" href="about_eco">eco club</a>
                         </div>
                     </li>
 
@@ -69,8 +69,8 @@ $result_course = $conn->query($sql_course);
                             aria-expanded="false">Academic</a>
                         <div class="dropdown-menu d-d shadow" role="menu">
                             <div id="arrow" data-popper-arrow></div>
-                            <a class="dropdown-item" href="courses.php">courses offered</a>
-                            <a class="dropdown-item" href="about.php">admission procedure</a>
+                            <a class="dropdown-item" href="courses">courses offered</a>
+                            <a class="dropdown-item" href="about">admission procedure</a>
                         </div>
                     </li>
 
